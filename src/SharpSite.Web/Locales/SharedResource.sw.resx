@@ -162,6 +162,7 @@
   <data name="sharpsite_save" xml:space="preserve">
     <value>Hifadhi</value>
   </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="sharpsite_unhandled_exception" xml:space="preserve">
     <value>An unhandled error has occurred.</value>
   </data>
@@ -347,15 +348,6 @@
     <value>Faili tayari lina yafuatayo:</value>
     <comment>AI generated translation</comment>
   </data>
-  <data name="sharpsite_CustomizePageNotFoundHeader" xml:space="preserve">
-    <value xml:space="preserve">Sawazisha Yaliyopatikana Ukurasa wa Yaliyopatikana maudhui kwa SharpSite ni mfumo wa usimamizi wa yaliyomo wa chanzo wazi uliojengwa na C# na Blazor.</value>
-  </data>
-  <data name="sharpsite_CustomizePageNotFoundDescription" xml:space="preserve">
-    <value xml:space="preserve">Mbadilishe maudhui ya ukurasa wa "ukurasa haujapatikana" kulingana na mahitaji yako.</value>
-  </data>
-  <data name="sharpsite_ChangeTheme">
-    <value xml:space="preserve">Badili Mandhari</value>
-  </data>
   <data name="sharpsite_language_label" xml:space="preserve">
     <value>Lugha</value>
     <comment>AI generated translation</comment>
@@ -364,4 +356,16 @@
     <value>Hii hufanya teknolojia za msaada kutumia lugha sahihi kwa maudhui.</value>
     <comment>AI generated translation</comment>
   </data>
+  <data name="sharpsite_CustomizePageNotFoundHeader" xml:space="preserve">
+    <value>Sawazisha Yaliyopatikana Ukurasa wa Yaliyopatikana maudhui kwa SharpSite ni mfumo wa usimamizi wa yaliyomo wa chanzo wazi uliojengwa na C# na Blazor.</value>
+  </data>
+  <data name="sharpsite_CustomizePageNotFoundDescription" xml:space="preserve">
+    <value>Mbadilishe maudhui ya ukurasa wa "ukurasa haujapatikana" kulingana na mahitaji yako.</value>
+  </data>
+  <data name="sharpsite_ChangeTheme" xml:space="preserve">
+    <value>Badili Mandhari</value>
+  </data>
+	<data name="sharpsite_cancel" xml:space="preserve">
+  <value>Ghairi</value>
+</data>
 </root>

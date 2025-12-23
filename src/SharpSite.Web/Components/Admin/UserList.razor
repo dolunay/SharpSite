@@ -25,8 +25,8 @@
 					<option value="@role">@role</option>
 				}
 			</InputSelect>
-			<button class="btn-link btn" @onclick="SaveRoleForUser">Save</button>
-			<button class="btn-link btn" @onclick="() => editUserId = string.Empty">Cancel</button>
+			<button class="btn-link btn" @onclick="SaveRoleForUser">@Localizer[SharedResource.sharpsite_save]</button>
+			<button class="btn-link btn" @onclick="() => editUserId = string.Empty">@Localizer[SharedResource.sharpsite_cancel]</button>
 		}
 	</TemplateColumn>
 

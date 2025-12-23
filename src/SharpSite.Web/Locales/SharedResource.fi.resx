@@ -162,6 +162,7 @@
   <data name="sharpsite_save" xml:space="preserve">
     <value>Tallenna</value>
   </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="sharpsite_unhandled_exception" xml:space="preserve">
     <value>Tapahtui käsittelemätön virhe.</value>
   </data>
@@ -329,12 +330,15 @@
     <value>Tämä varmistaa, että avustavat teknologiat käyttävät sisällölle oikeaa kieltä.</value>
   </data>
   <data name="sharpsite_CustomizePageNotFoundHeader" xml:space="preserve">
-    <value xml:space="preserve">Mukauta Sivua ei löytynyt -sisältöä</value>
+    <value>Mukauta Sivua ei löytynyt -sisältöä</value>
   </data>
   <data name="sharpsite_CustomizePageNotFoundDescription" xml:space="preserve">
-    <value xml:space="preserve">Mukauta sisältö "sivua ei löydy" -sivulle.</value>
+    <value>Mukauta sisältö "sivua ei löydy" -sivulle.</value>
   </data>
-  <data name="sharpsite_ChangeTheme">
-    <value xml:space="preserve">Vaihda teemaa</value>
+  <data name="sharpsite_ChangeTheme" xml:space="preserve">
+    <value>Vaihda teemaa</value>
   </data>
+	<data name="sharpsite_cancel" xml:space="preserve">
+  <value>Peruuta</value>
+</data>
 </root>

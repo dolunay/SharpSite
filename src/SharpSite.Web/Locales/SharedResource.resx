@@ -162,6 +162,9 @@
   <data name="sharpsite_save" xml:space="preserve">
     <value>Save</value>
   </data>
+  <data name="sharpsite_cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
   <data name="sharpsite_unhandled_exception" xml:space="preserve">
     <value>An unhandled error has occurred.</value>
   </data>

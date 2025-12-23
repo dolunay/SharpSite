@@ -162,6 +162,7 @@
   <data name="sharpsite_save" xml:space="preserve">
     <value>Salvar</value>
   </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="sharpsite_unhandled_exception" xml:space="preserve">
     <value>Ocorreu um erro não tratado.</value>
   </data>
@@ -347,15 +348,6 @@
     <value>O arquivo já contém o seguinte:</value>
     <comment>AI generated translation</comment>
   </data>
-  <data name="sharpsite_CustomizePageNotFoundHeader" xml:space="preserve">
-    <value xml:space="preserve">Personalizar o conteúdo da página não encontrada.</value>
-  </data>
-  <data name="sharpsite_CustomizePageNotFoundDescription" xml:space="preserve">
-    <value xml:space="preserve">Personalize o conteúdo para a página "página não encontrada"</value>
-  </data>
-  <data name="sharpsite_ChangeTheme">
-    <value xml:space="preserve">Alterar Tema</value>
-  </data>
   <data name="sharpsite_language_label" xml:space="preserve">
     <value>Idioma</value>
     <comment>AI generated translation</comment>
@@ -364,4 +356,16 @@
     <value>Isso garante que as tecnologias assistivas usem o idioma correto para o conteúdo.</value>
     <comment>AI generated translation</comment>
   </data>
+  <data name="sharpsite_CustomizePageNotFoundHeader" xml:space="preserve">
+    <value>Personalizar o conteúdo da página não encontrada.</value>
+  </data>
+  <data name="sharpsite_CustomizePageNotFoundDescription" xml:space="preserve">
+    <value>Personalize o conteúdo para a página "página não encontrada"</value>
+  </data>
+  <data name="sharpsite_ChangeTheme" xml:space="preserve">
+    <value>Alterar Tema</value>
+  </data>
+	<data name="sharpsite_cancel" xml:space="preserve">
+  <value>Cancelar</value>
+</data>
 </root>

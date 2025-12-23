@@ -162,6 +162,7 @@
   <data name="sharpsite_save" xml:space="preserve">
     <value>Speichern</value>
   </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="sharpsite_unhandled_exception" xml:space="preserve">
     <value>Ein unbehandelter Fehler ist aufgetreten.</value>
   </data>
@@ -347,15 +348,6 @@
     <value>Die Datei enthält bereits Folgendes:</value>
     <comment>AI generated translation</comment>
   </data>
-  <data name="sharpsite_CustomizePageNotFoundHeader" xml:space="preserve">
-    <value xml:space="preserve">Individualisiere Inhalte für die Seite "Nicht gefunden"</value>
-  </data>
-  <data name="sharpsite_CustomizePageNotFoundDescription" xml:space="preserve">
-    <value xml:space="preserve">Passen Sie den Inhalt für die Seite "Seite nicht gefunden" an.</value>
-  </data>
-  <data name="sharpsite_ChangeTheme">
-    <value xml:space="preserve">Thema ändern</value>
-  </data>
   <data name="sharpsite_language_label" xml:space="preserve">
     <value>Sprache</value>
     <comment>AI generated translation</comment>
@@ -364,4 +356,16 @@
     <value>Dies gewährleistet, dass assistive Technologien die richtige Sprache für den Inhalt verwenden.</value>
     <comment>AI generated translation</comment>
   </data>
+  <data name="sharpsite_CustomizePageNotFoundHeader" xml:space="preserve">
+    <value>Individualisiere Inhalte für die Seite "Nicht gefunden"</value>
+  </data>
+  <data name="sharpsite_CustomizePageNotFoundDescription" xml:space="preserve">
+    <value>Passen Sie den Inhalt für die Seite "Seite nicht gefunden" an.</value>
+  </data>
+  <data name="sharpsite_ChangeTheme" xml:space="preserve">
+    <value>Thema ändern</value>
+  </data>
+	<data name="sharpsite_cancel" xml:space="preserve">
+  <value>Abbrechen</value>
+</data>
 </root>

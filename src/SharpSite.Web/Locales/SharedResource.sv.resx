@@ -177,6 +177,7 @@
     <value>Spara</value>
     <comment>AI generated translation</comment>
   </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="sharpsite_unhandled_exception" xml:space="preserve">
     <value>Ett oväntat fel har uppstått.</value>
     <comment>AI generated translation</comment>
@@ -381,17 +382,6 @@
     <value>Filen innehåller redan följande:</value>
     <comment>AI generated translation</comment>
   </data>
-  <data name="sharpsite_CustomizePageNotFoundHeader" xml:space="preserve">
-    <value>Anpassa innehållet för 'Sidan kan inte hittas' redigeringskomponenten</value>
-    <comment>AI generated translation</comment>
-  </data>
-  <data name="sharpsite_CustomizePageNotFoundDescription" xml:space="preserve">
-    <value>Anpassa innehållet för "sida hittades inte"-sidan.</value>
-    <comment>AI generated translation</comment>
-  </data>
-  <data name="sharpsite_ChangeTheme">
-    <value xml:space="preserve">Byt tema</value>
-  </data>
   <data name="sharpsite_language_label" xml:space="preserve">
     <value>Språk</value>
     <comment>AI generated translation</comment>
@@ -400,4 +390,18 @@
     <value>Detta säkerställer att hjälpmedelstekniker använder rätt språk för innehållet.</value>
     <comment>AI generated translation</comment>
   </data>
+  <data name="sharpsite_CustomizePageNotFoundHeader" xml:space="preserve">
+    <value>Anpassa innehållet för 'Sidan kan inte hittas' redigeringskomponenten</value>
+    <comment>AI generated translation</comment>
+  </data>
+  <data name="sharpsite_CustomizePageNotFoundDescription" xml:space="preserve">
+    <value>Anpassa innehållet för "sida hittades inte"-sidan.</value>
+    <comment>AI generated translation</comment>
+  </data>
+  <data name="sharpsite_ChangeTheme" xml:space="preserve">
+    <value>Byt tema</value>
+  </data>
+	<data name="sharpsite_cancel" xml:space="preserve">
+  <value>Avbryt</value>
+</data>
 </root>
