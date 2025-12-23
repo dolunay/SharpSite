@@ -10,14 +10,24 @@ public static class RunE2ETestsCommand
 	public static IResourceBuilder<ProjectResource> WithRunE2eTestsCommand(
 			this IResourceBuilder<ProjectResource> builder)
 	{
+		//builder.WithCommand(
+		//		name: Name,
+		//		displayName: "Run end to end tests",
+		//		executeCommand: context => RunTests(),
+		//		updateState: OnUpdateResourceState,
+		//		iconName: "BookGlobe",
+		//		iconVariant: IconVariant.Filled);
+		CommandOptions? options = new()
+		{
+			UpdateState = OnUpdateResourceState,
+			IconName = "BookGlobe",
+			IconVariant = IconVariant.Filled
+		};
 		builder.WithCommand(
-				name: Name,
-				displayName: "Run end to end tests",
-				executeCommand: context => RunTests(),
-				updateState: OnUpdateResourceState,
-				iconName: "BookGlobe",
-				iconVariant: IconVariant.Filled);
-
+			name: Name,
+			displayName: "Run end to end tests",
+			executeCommand: context => RunTests(),
+			options);
 		return builder;
 	}
 
