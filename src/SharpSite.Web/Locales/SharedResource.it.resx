@@ -399,4 +399,76 @@
 	<data name="sharpsite_cancel" xml:space="preserve">
   <value>Annulla</value>
 </data>
+	<data name="sharpsite_editor_bold" xml:space="preserve">
+    <value>Grassetto</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per il testo in grassetto</comment>
+  </data>
+	<data name="sharpsite_editor_italic" xml:space="preserve">
+    <value>Corsivo</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per il testo in corsivo</comment>
+  </data>
+	<data name="sharpsite_editor_strikethrough" xml:space="preserve">
+    <value>Barrato</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per il testo barrato</comment>
+  </data>
+	<data name="sharpsite_editor_horizontalrule" xml:space="preserve">
+    <value>Linea orizzontale</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per la linea orizzontale</comment>
+  </data>
+	<data name="sharpsite_editor_heading" xml:space="preserve">
+    <value>Intestazione</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per l'intestazione</comment>
+  </data>
+	<data name="sharpsite_editor_quote" xml:space="preserve">
+    <value>Citazione</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per la citazione</comment>
+  </data>
+	<data name="sharpsite_editor_unorderedlist" xml:space="preserve">
+    <value>Elenco non ordinato</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per l'elenco non ordinato</comment>
+  </data>
+	<data name="sharpsite_editor_orderedlist" xml:space="preserve">
+    <value>Elenco ordinato</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per l'elenco ordinato</comment>
+  </data>
+	<data name="sharpsite_editor_alignleft" xml:space="preserve">
+    <value>Allinea a sinistra</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per l'allineamento a sinistra</comment>
+  </data>
+	<data name="sharpsite_editor_aligncentre" xml:space="preserve">
+    <value>Centra</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per il centramento</comment>
+  </data>
+	<data name="sharpsite_editor_alignright" xml:space="preserve">
+    <value>Allinea a destra</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per l'allineamento a destra</comment>
+  </data>
+	<data name="sharpsite_editor_link" xml:space="preserve">
+    <value>Collegamento</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per aggiungere un collegamento</comment>
+  </data>
+	<data name="sharpsite_editor_image" xml:space="preserve">
+    <value>Immagine</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per aggiungere un'immagine</comment>
+  </data>
+	<data name="sharpsite_editor_table" xml:space="preserve">
+    <value>Aggiungi tabella</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per aggiungere una tabella</comment>
+  </data>
+	<data name="sharpsite_editor_preview" xml:space="preserve">
+    <value>Attiva/Disattiva anteprima</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per attivare/disattivare l'anteprima</comment>
+  </data>
+	<data name="sharpsite_editor_codeblock" xml:space="preserve">
+    <value>Blocco di codice</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per il blocco di codice</comment>
+  </data>
+	<data name="sharpsite_editor_fullscreen" xml:space="preserve">
+    <value>Schermo intero</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per la modalità a schermo intero</comment>
+  </data>
+	<data name="sharpsite_editor_guide" xml:space="preserve">
+    <value>Guida Markdown</value>
+    <comment>Pulsante della barra degli strumenti dell'editor Markdown per la guida Markdown</comment>
+  </data>
 </root>

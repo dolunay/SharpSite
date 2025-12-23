@@ -368,4 +368,76 @@
 	<data name="sharpsite_cancel" xml:space="preserve">
   <value>Annuleren</value>
 </data>
+	<data name="sharpsite_editor_bold" xml:space="preserve">
+    <value>Vetgedrukt</value>
+    <comment>Werkbalkknop van Markdown-editor voor vetgedrukte tekst</comment>
+  </data>
+	<data name="sharpsite_editor_italic" xml:space="preserve">
+    <value>Cursief</value>
+    <comment>Werkbalkknop van Markdown-editor voor cursieve tekst</comment>
+  </data>
+	<data name="sharpsite_editor_strikethrough" xml:space="preserve">
+    <value>Doorgestreept</value>
+    <comment>Werkbalkknop van Markdown-editor voor doorgestreepte tekst</comment>
+  </data>
+	<data name="sharpsite_editor_horizontalrule" xml:space="preserve">
+    <value>Horizontale lijn</value>
+    <comment>Werkbalkknop van Markdown-editor voor horizontale lijn</comment>
+  </data>
+	<data name="sharpsite_editor_heading" xml:space="preserve">
+    <value>Kop</value>
+    <comment>Werkbalkknop van Markdown-editor voor kop</comment>
+  </data>
+	<data name="sharpsite_editor_quote" xml:space="preserve">
+    <value>Citaat</value>
+    <comment>Werkbalkknop van Markdown-editor voor citaat</comment>
+  </data>
+	<data name="sharpsite_editor_unorderedlist" xml:space="preserve">
+    <value>Ongeordende lijst</value>
+    <comment>Werkbalkknop van Markdown-editor voor ongeordende lijst</comment>
+  </data>
+	<data name="sharpsite_editor_orderedlist" xml:space="preserve">
+    <value>Geordende lijst</value>
+    <comment>Werkbalkknop van Markdown-editor voor geordende lijst</comment>
+  </data>
+	<data name="sharpsite_editor_alignleft" xml:space="preserve">
+    <value>Links uitlijnen</value>
+    <comment>Werkbalkknop van Markdown-editor voor links uitlijnen</comment>
+  </data>
+	<data name="sharpsite_editor_aligncentre" xml:space="preserve">
+    <value>Centreren</value>
+    <comment>Werkbalkknop van Markdown-editor voor centreren</comment>
+  </data>
+	<data name="sharpsite_editor_alignright" xml:space="preserve">
+    <value>Rechts uitlijnen</value>
+    <comment>Werkbalkknop van Markdown-editor voor rechts uitlijnen</comment>
+  </data>
+	<data name="sharpsite_editor_link" xml:space="preserve">
+    <value>Link</value>
+    <comment>Werkbalkknop van Markdown-editor voor het toevoegen van link</comment>
+  </data>
+	<data name="sharpsite_editor_image" xml:space="preserve">
+    <value>Afbeelding</value>
+    <comment>Werkbalkknop van Markdown-editor voor het toevoegen van afbeelding</comment>
+  </data>
+	<data name="sharpsite_editor_table" xml:space="preserve">
+    <value>Tabel toevoegen</value>
+    <comment>Werkbalkknop van Markdown-editor voor het toevoegen van tabel</comment>
+  </data>
+	<data name="sharpsite_editor_preview" xml:space="preserve">
+    <value>Voorbeeld in-/uitschakelen</value>
+    <comment>Werkbalkknop van Markdown-editor voor het in-/uitschakelen van voorbeeld</comment>
+  </data>
+	<data name="sharpsite_editor_codeblock" xml:space="preserve">
+    <value>Codeblok</value>
+    <comment>Werkbalkknop van Markdown-editor voor codeblok</comment>
+  </data>
+	<data name="sharpsite_editor_fullscreen" xml:space="preserve">
+    <value>Volledig scherm</value>
+    <comment>Werkbalkknop van Markdown-editor voor volledig scherm modus</comment>
+  </data>
+	<data name="sharpsite_editor_guide" xml:space="preserve">
+    <value>Markdown-handleiding</value>
+    <comment>Werkbalkknop van Markdown-editor voor Markdown-handleiding</comment>
+  </data>
 </root>

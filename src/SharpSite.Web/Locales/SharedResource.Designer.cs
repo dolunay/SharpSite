@@ -205,6 +205,168 @@ namespace SharpSite.Web.Locales {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Align Centre.
+        /// </summary>
+        internal static string sharpsite_editor_aligncentre {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_aligncentre", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Align Left.
+        /// </summary>
+        internal static string sharpsite_editor_alignleft {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_alignleft", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Align Right.
+        /// </summary>
+        internal static string sharpsite_editor_alignright {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_alignright", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bold.
+        /// </summary>
+        internal static string sharpsite_editor_bold {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_bold", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Code Block.
+        /// </summary>
+        internal static string sharpsite_editor_codeblock {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_codeblock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fullscreen.
+        /// </summary>
+        internal static string sharpsite_editor_fullscreen {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_fullscreen", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Markdown Guide.
+        /// </summary>
+        internal static string sharpsite_editor_guide {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_guide", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Heading.
+        /// </summary>
+        internal static string sharpsite_editor_heading {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_heading", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Horizontal Rule.
+        /// </summary>
+        internal static string sharpsite_editor_horizontalrule {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_horizontalrule", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Image.
+        /// </summary>
+        internal static string sharpsite_editor_image {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_image", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Italic.
+        /// </summary>
+        internal static string sharpsite_editor_italic {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_italic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Link.
+        /// </summary>
+        internal static string sharpsite_editor_link {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_link", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ordered List.
+        /// </summary>
+        internal static string sharpsite_editor_orderedlist {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_orderedlist", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Toggle Preview.
+        /// </summary>
+        internal static string sharpsite_editor_preview {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_preview", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Quote.
+        /// </summary>
+        internal static string sharpsite_editor_quote {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_quote", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Strike Through.
+        /// </summary>
+        internal static string sharpsite_editor_strikethrough {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_strikethrough", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add Table.
+        /// </summary>
+        internal static string sharpsite_editor_table {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_table", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unordered List.
+        /// </summary>
+        internal static string sharpsite_editor_unorderedlist {
+            get {
+                return ResourceManager.GetString("sharpsite_editor_unorderedlist", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Edit Page.
         /// </summary>
         internal static string sharpsite_editpage {

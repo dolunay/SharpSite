@@ -367,4 +367,76 @@
 	<data name="sharpsite_cancel" xml:space="preserve">
   <value>Cancel·la</value>
 </data>
+	<data name="sharpsite_editor_bold" xml:space="preserve">
+    <value>Negreta</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per a text en negreta</comment>
+  </data>
+	<data name="sharpsite_editor_italic" xml:space="preserve">
+    <value>Cursiva</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per a text en cursiva</comment>
+  </data>
+	<data name="sharpsite_editor_strikethrough" xml:space="preserve">
+    <value>Ratllat</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per a text ratllat</comment>
+  </data>
+	<data name="sharpsite_editor_horizontalrule" xml:space="preserve">
+    <value>Línia horitzontal</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per a línia horitzontal</comment>
+  </data>
+	<data name="sharpsite_editor_heading" xml:space="preserve">
+    <value>Encapçalament</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per a encapçalament</comment>
+  </data>
+	<data name="sharpsite_editor_quote" xml:space="preserve">
+    <value>Cita</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per a cita</comment>
+  </data>
+	<data name="sharpsite_editor_unorderedlist" xml:space="preserve">
+    <value>Llista no ordenada</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per a llista no ordenada</comment>
+  </data>
+	<data name="sharpsite_editor_orderedlist" xml:space="preserve">
+    <value>Llista ordenada</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per a llista ordenada</comment>
+  </data>
+	<data name="sharpsite_editor_alignleft" xml:space="preserve">
+    <value>Alinea a l'esquerra</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per a alineació a l'esquerra</comment>
+  </data>
+	<data name="sharpsite_editor_aligncentre" xml:space="preserve">
+    <value>Centra</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per a centrar</comment>
+  </data>
+	<data name="sharpsite_editor_alignright" xml:space="preserve">
+    <value>Alinea a la dreta</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per a alineació a la dreta</comment>
+  </data>
+	<data name="sharpsite_editor_link" xml:space="preserve">
+    <value>Enllaç</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per afegir enllaç</comment>
+  </data>
+	<data name="sharpsite_editor_image" xml:space="preserve">
+    <value>Imatge</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per afegir imatge</comment>
+  </data>
+	<data name="sharpsite_editor_table" xml:space="preserve">
+    <value>Afegeix taula</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per afegir taula</comment>
+  </data>
+	<data name="sharpsite_editor_preview" xml:space="preserve">
+    <value>Alterna vista prèvia</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per alternar vista prèvia</comment>
+  </data>
+	<data name="sharpsite_editor_codeblock" xml:space="preserve">
+    <value>Bloc de codi</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per a bloc de codi</comment>
+  </data>
+	<data name="sharpsite_editor_fullscreen" xml:space="preserve">
+    <value>Pantalla completa</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per al mode de pantalla completa</comment>
+  </data>
+	<data name="sharpsite_editor_guide" xml:space="preserve">
+    <value>Guia de Markdown</value>
+    <comment>Botó de la barra d'eines de l'editor Markdown per a la guia de Markdown</comment>
+  </data>
 </root>
