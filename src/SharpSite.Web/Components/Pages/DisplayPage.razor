@@ -5,23 +5,25 @@
 
 @if (Page is not null)
 {
-	<PageTitle>@Page.Title</PageTitle>
-	<div lang="@Page.LanguageCode">
-		<h1>@Page.Title</h1>
-		@((MarkupString)Markdown.ToHtml(Page.Content))
-	</div>
+    <PageTitle>@Page.Title</PageTitle>
+    <div lang="@Page.LanguageCode">
+        <h1>@Page.Title</h1>
+        @((MarkupString)Markdown.ToHtml(Page.Content))
+    </div>
 }
 else
 {
-	<PageNotFound PageRequested="@(new Uri(NavigationManager.Uri).AbsolutePath)" />
+    <PageNotFound PageRequested="@(new Uri(NavigationManager.Uri).AbsolutePath)" />
 }
 
 @code {
-	[Parameter] public string Slug { get; set; } = string.Empty;
-	private Page? Page { get; set; }
 
-	protected override async Task OnInitializedAsync()
-	{
-		Page = await PageRepository.GetPage(Slug);
-	}
+    [Parameter] public string Slug { get; set; } = string.Empty;
+
+    private Page? Page { get; set; } = default!;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Page = await PageRepository.GetPage(Slug);
+    }
 }
